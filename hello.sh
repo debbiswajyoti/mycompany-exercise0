@@ -2,3 +2,6 @@
 
 echo "Hello World!"
 echo "system date time is `date`"
+
+ls -l
+cal
